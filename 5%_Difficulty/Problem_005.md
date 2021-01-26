@@ -8,6 +8,8 @@ First of all, it must be evenly divisible by all prime numbers from 2 to 20.
 
 After that, you can factor all numbers from 2 to 20 add some potential prime number to divisors-list
 
+---
+
 Note: I reused some function such as simple_sieve to calculate prime numbers 
 ```python
 def counting(input_seq):
